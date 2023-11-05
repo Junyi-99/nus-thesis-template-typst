@@ -3,6 +3,11 @@ NUS thesis typst template
 
 [Typst online Preview](https://typst.app/project/rj7RFcTnC41hymbwfyFEaj)
 
+| | |
+|---|---|
+|<img width="320" alt="image" src="https://github.com/Junyi-99/nus-thesis-template-typst/assets/14367694/7809775b-1373-4ce6-a2bb-46480bc1367f">|<img width="320" alt="image" src="https://github.com/Junyi-99/nus-thesis-template-typst/assets/14367694/ae773190-c54f-427f-a11f-c1662602e9e4">|
+|<img width="320" alt="image" src="https://github.com/Junyi-99/nus-thesis-template-typst/assets/14367694/67fd7378-ae00-4289-9c67-1aec42f83d0c">|<img width="320" alt="image" src="https://github.com/Junyi-99/nus-thesis-template-typst/assets/14367694/5937337c-4eea-4d68-bf79-8f581145b1dd">|
+
 ## Build PDF Locally
 
 ```bash
