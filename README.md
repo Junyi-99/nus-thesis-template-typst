@@ -1,5 +1,6 @@
-# nus-thesis-template-typst
-NUS thesis typst template
+<h1 align="center">
+ <img src="https://github.com/Junyi-99/nus-thesis-template-typst/assets/14367694/6d74c363-c7e8-4065-ae0b-ff870925a63a" />
+</h1>
 
 [Typst online Preview](https://typst.app/project/rj7RFcTnC41hymbwfyFEaj)
 
